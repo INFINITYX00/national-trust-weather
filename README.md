@@ -5,7 +5,6 @@
 This project aims to add a weather display to National Trust property pages, enhancing user experience by providing local weather information.
 
 ## Screenshot
-<br>
 ![image](https://github.com/INFINITYX00/national-trust-weather/assets/145766101/19fc34eb-1a08-4359-8a97-9a0c82bae7e3)
 
 
